@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/berkay/static/css/main.073c9b0a.css",
+    "main.js": "/berkay/static/js/main.b872acf7.js",
+    "static/js/787.d358910a.chunk.js": "/berkay/static/js/787.d358910a.chunk.js",
+    "static/media/logo.svg": "/berkay/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/berkay/index.html",
+    "main.073c9b0a.css.map": "/berkay/static/css/main.073c9b0a.css.map",
+    "main.b872acf7.js.map": "/berkay/static/js/main.b872acf7.js.map",
+    "787.d358910a.chunk.js.map": "/berkay/static/js/787.d358910a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b872acf7.js"
+  ]
+}
