@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/berkay/static/css/main.c363ea69.css",
-    "main.js": "/berkay/static/js/main.a801908a.js",
+    "main.js": "/berkay/static/js/main.24566670.js",
     "static/js/787.d358910a.chunk.js": "/berkay/static/js/787.d358910a.chunk.js",
     "index.html": "/berkay/index.html",
     "main.c363ea69.css.map": "/berkay/static/css/main.c363ea69.css.map",
-    "main.a801908a.js.map": "/berkay/static/js/main.a801908a.js.map",
+    "main.24566670.js.map": "/berkay/static/js/main.24566670.js.map",
     "787.d358910a.chunk.js.map": "/berkay/static/js/787.d358910a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c363ea69.css",
-    "static/js/main.a801908a.js"
+    "static/js/main.24566670.js"
   ]
 }
